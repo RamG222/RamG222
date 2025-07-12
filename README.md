@@ -1,7 +1,7 @@
 # 👨‍💻 Ram Gupta
 
 🚀 Flutter & Full Stack Developer | 💼 5+ years of experience |
-📍 Kolhapur, India | 📧 shriramgupta8141@gmail.com | 📱 +91 8857880000  
+📍 Kolhapur, India | 📧 ceo@ramscript.com | 📱 +91 8857880000  
 
 ---
 

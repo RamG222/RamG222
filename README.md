@@ -14,20 +14,25 @@ I focus on mobile app UI/UX and cross-platform performance, while constantly pus
 > Let's team up to turn ideas into innovative digital solutions!
 
 ---
-
 ## 💼 Tech Stack
 
 **Languages:**  
-`Dart` `JavaScript` `Java` `PHP`
+`Dart` `JavaScript` `TypeScript` `Java` `PHP` `Python` `C` `C++`
 
 **Mobile & Web Frameworks:**  
-`Flutter` `React` `Bootstrap` `jQuery`
+`Flutter` `React.js` `Next.js` `Bootstrap` `Tailwind CSS` `jQuery`
 
 **Backend:**  
-`Node.js` `Express.js` `PHP (Embedded JS)`
+`Node.js` `Express.js` `PHP` `Spring Boot` `FastAPI`
 
 **Databases:**  
-`MySQL` `Firebase` `MongoDB`
+`PostgreSQL` `MySQL` `MongoDB` `Firebase` `SQLite` `Vector Databases`
+
+**AI / ML & Data Science:**  
+`TensorFlow` `OpenCV` `NumPy` `Pandas`
+
+**DevOps & Cloud:**  
+`Docker` `Kubernetes` `AWS` `DigitalOcean` `Cloudflare`
 
 **Tools & Platforms:**  
 `VS Code` `Android Studio` `Postman` `GitHub` `Linux` `macOS` `Windows`
